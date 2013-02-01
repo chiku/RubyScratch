@@ -1,0 +1,3 @@
+[submodule "hooks-demo"]
+	path = hooks-demo
+	url = https://github.com/chiku/RubyScratch-demo
